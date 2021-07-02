@@ -92,6 +92,8 @@ Live Smart Contract [0x8e12e7225d738386758832991f010c82de23f86d](https://ethersc
 
 [https://tilliedollar.com](https://tilliedollar.com "The Spirit of ASBURY PARK ROCKIN' THE JERSEY SHORE")
 
+[https://vitadigi.com/](https://vitadigi.com/ "Integrated Lifestyle Marketing")
+
 [iBBT.io](https://ibbt.io "Visit iBlockchain Bank & Trust Technologies Co.!")
 
 
