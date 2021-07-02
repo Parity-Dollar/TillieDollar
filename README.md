@@ -25,7 +25,7 @@ We know that fiat paper money loses quality and needs to be destroyed and recirc
 
 ![image](https://github.com/Parity-Dollar/TillieDollar/blob/main/images/TILLIE-X-V1.png)
 
-> As we mentioned above, the value of the ByDzyne dollar has a direct relationship to traditional assets (gold, fiat currency, money, or other groups of asset values) in a ratio of 1:1. Moreover, this ratio is maintained throughout the life of the Tillie dollar, regardless of market conditions. Thus, price fluctuations up or down are possible on the basket of stablecoins, but they are insignificant. 
+> As we mentioned above, the value of the Tillie dollar has a direct relationship to traditional assets (gold, fiat currency, money, or other groups of asset values) in a ratio of 1:1. Moreover, this ratio is maintained throughout the life of the Tillie dollar, regardless of market conditions. Thus, price fluctuations up or down are possible on the basket of stablecoins, but they are insignificant. 
 
 If you are an exchange owner or a merchant and want to intergrade the Tillie Dollar into your business model you can send us a message at info@ibbt.io
 
