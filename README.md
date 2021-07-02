@@ -76,7 +76,7 @@ TILLIE maintains price stability by a build-in 1:1 parity with the stablecoins i
 
 ## How the TILLIE Works
 
-The TILLIE Currency is borderless around the world that deposit and withdrawal TILLIE currency. The smart contract has a $10K KYC/AML limit per transaction. Anyone (hedge funds, traders, etc.) who wants to facilitate an amount larger than $10K in one trench can contact the USBD team for more details.  
+The TILLIE Currency is borderless around the world that deposit and withdrawal TILLIE currency. The smart contract has a $10K KYC/AML limit per transaction. Anyone (hedge funds, traders, etc.) who wants to facilitate an amount larger than $10K in one trench can contact the TILLIE team for more details.  
 
 ![image](https://github.com/Parity-Dollar/ByDzyneBlockchainDollar/blob/main/images/USBD-X-V1.png)
 
