@@ -3,7 +3,7 @@
 ## The Tillie Dollar (TILLIE)
 [![Gitter](https://badges.gitter.im/intergalacticcredits/community.svg)](https://gitter.im/Blockchain-Bank/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
-> What is an Tillie Dollar or (TILLIE)?  
+> What is a Tillie Dollar or (TILLIE)?  
 - Mainnet : [0x8e12E7225d738386758832991F010c82De23f86d](https://ethplorer.io/address/0x8e12e7225d738386758832991f010c82de23f86d#chart=candlestick) (Pending Deployment)
 - Main Features: Run on the ethereum blockchain
 - 
