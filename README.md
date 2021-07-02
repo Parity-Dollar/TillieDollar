@@ -58,7 +58,7 @@ Each TILLIE token has a corresponding 1:1 parity value of eight stabecoins. The 
 
 ## Price Stabilization
 
-TILLIE maintains price stability by a build-in 1:1 parity with the stablecoins in the custody basket. The supply does not fluctuate under any circumstances.  For instance, even an increase in demand in TILLIE manifests in an increase in the volume of TILLIE transactions; there is no surge in the price of TILLIE.  In essence, there is no value associated with the increased demand in one unit of USBD even when newly minted TILLIE, collateralized by the basket of stablecoins used to purchase it. 
+TILLIE maintains price stability by a build-in 1:1 parity with the stablecoins in the custody basket. The supply does not fluctuate under any circumstances.  For instance, even an increase in demand in TILLIE manifests in an increase in the volume of TILLIE transactions; there is no surge in the price of TILLIE.  In essence, there is no value associated with the increased demand in one unit of TILLIE even when newly minted TILLIE, collateralized by the basket of stablecoins used to purchase it. 
 
 
 ### Stablecoins in Custody
