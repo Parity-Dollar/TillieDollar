@@ -4,12 +4,12 @@
 [![Gitter](https://badges.gitter.im/intergalacticcredits/community.svg)](https://gitter.im/Blockchain-Bank/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 > What is an Tillie Dollar or (TILLIE)?  
-- Mainnet : [0x8e12E7225d738386758832991F010c82De23f86d](https://ethplorer.io/address/0x8e12e7225d738386758832991f010c82de23f86d#chart=candlestick) (Pending Deployment
+- Mainnet : [0x8e12E7225d738386758832991F010c82De23f86d](https://ethplorer.io/address/0x8e12e7225d738386758832991f010c82de23f86d#chart=candlestick) (Pending Deployment)
 - Main Features: Run on the ethereum blockchain
 - 
 Financial Innovations in Blockchain Marketing
 
-![image](https://github.com/Parity-Dollar/ByDzyneBlockchainDollar/blob/main/images/BDZN-256px.png)
+![image](https://github.com/Parity-Dollar/TillieDollar/blob/main/images/COIN-02.png)
 
 > The Tillie Dollar (TILLIE) is an Ethereum based stablecoin backed by a basket of Stablecoins that are pegged to the USD. TILLIE was developed by iBlockchain Bank and Trust Technologies Co. and bootstraped by Vitadigi Ltd.
 
